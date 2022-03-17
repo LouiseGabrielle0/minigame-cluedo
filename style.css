@@ -9,9 +9,9 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 600px;
     height: 1150px;
     border: 1px solid rgb(97, 13, 13);
+    align-items: center;
 }
 
 header {
